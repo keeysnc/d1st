@@ -1,4 +1,4 @@
 # d1st
-Salesforce consulting client site rebranding.
+Site rebranding for Salesforce consulting client.
 
 https://www.d1st.net/
